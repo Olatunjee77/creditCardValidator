@@ -28,7 +28,9 @@ int sumOddDigits(const string cardNumber){
 int main(){
      string cardNumber;
      int result; 
-
+     cout << "****************************" << endl;
+     cout << "Credit Card Number Validator" << endl;
+     cout << "****************************" << endl;
      cout << "Enter your card number: ";
      cin >> cardNumber;
 

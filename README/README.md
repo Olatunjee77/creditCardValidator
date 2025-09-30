@@ -1,5 +1,5 @@
-# Credit card Validator
-This code requests for users credit card number to verify if its valid or not implentingn the Luhn algorithm
+# Credit Card Number Validator
+This code requests for users credit card number to verify if its valid or not implentinng the Luhn algorithm
 
 ## Luhn Algorithm
 1- Start from the 2nd rightmost digit and move left.  
